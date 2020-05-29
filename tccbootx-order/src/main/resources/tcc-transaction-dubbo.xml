@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dubbo="http://code.alibabatech.com/schema/dubbo"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://code.alibabatech.com/schema/dubbo http://code.alibabatech.com/schema/dubbo/dubbo.xsd">
+
+       <dubbo:provider proxy="tccJavassist"/>
+
+       <dubbo:application name="tccbootxprovider" />
+
+       <dubbo:registry protocol="zookeeper" address="127.0.0.1:2181" />
+
+       <dubbo:protocol name="dubbo" port="20881" />
+
+       <dubbo:service id="orderServiceAPI" interface="com.loststars.tccbootx.api.order.OrderServiceAPI" ref="defaultOrderServiceAPIImpl" />
+
+       <bean id="defaultOrderServiceAPIImpl" class="com.loststars.tccbootx.order.service.impl.DefaultOrderServiceAPIImpl" />
+
+       <dubbo:reference id="itemServiceAPI" interface="com.loststars.tccbootx.api.item.ItemServiceAPI" />
+</beans>

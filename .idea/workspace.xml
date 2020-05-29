@@ -1,0 +1,1989 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="34bf7a07-dea8-48f4-9646-763b10f72e64" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/tccbootx-order/target/" />
+    <ignored path="$PROJECT_DIR$/tccbootx-api/target/" />
+    <ignored path="$PROJECT_DIR$/tccbootx-gateway/target/" />
+    <ignored path="$PROJECT_DIR$/tccbootx-user/target/" />
+    <ignored path="$PROJECT_DIR$/tccbootx-item/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="OrderController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tccbootx-gateway/src/main/java/com/loststars/tccbootx/gateway/controller/order/OrderController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="791">
+              <caret line="77" column="41" lean-forward="true" selection-start-line="77" selection-start-column="41" selection-end-line="77" selection-end-column="41" />
+              <folding>
+                <element signature="e#1156#1157#0" expanded="true" />
+                <element signature="e#1194#1195#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RedPacketLogModel.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tccbootx-user/src/main/java/com/loststars/tccbootx/user/service/model/RedPacketLogModel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="64">
+              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding>
+                <element signature="e#464#465#0" expanded="true" />
+                <element signature="e#489#490#0" expanded="true" />
+                <element signature="e#526#527#0" expanded="true" />
+                <element signature="e#554#555#0" expanded="true" />
+                <element signature="e#588#589#0" expanded="true" />
+                <element signature="e#618#619#0" expanded="true" />
+                <element signature="e#664#665#0" expanded="true" />
+                <element signature="e#702#703#0" expanded="true" />
+                <element signature="e#736#737#0" expanded="true" />
+                <element signature="e#765#766#0" expanded="true" />
+                <element signature="e#810#811#0" expanded="true" />
+                <element signature="e#846#847#0" expanded="true" />
+                <element signature="e#883#884#0" expanded="true" />
+                <element signature="e#912#913#0" expanded="true" />
+                <element signature="e#960#961#0" expanded="true" />
+                <element signature="e#996#997#0" expanded="true" />
+                <element signature="e#1029#1030#0" expanded="true" />
+                <element signature="e#1058#1059#0" expanded="true" />
+                <element signature="e#1102#1103#0" expanded="true" />
+                <element signature="e#1138#1139#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WalletLogModel.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tccbootx-user/src/main/java/com/loststars/tccbootx/user/service/model/WalletLogModel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="496">
+              <caret line="31" column="23" lean-forward="true" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+              <folding>
+                <element signature="e#461#462#0" expanded="true" />
+                <element signature="e#486#487#0" expanded="true" />
+                <element signature="e#523#524#0" expanded="true" />
+                <element signature="e#551#552#0" expanded="true" />
+                <element signature="e#585#586#0" expanded="true" />
+                <element signature="e#615#616#0" expanded="true" />
+                <element signature="e#661#662#0" expanded="true" />
+                <element signature="e#699#700#0" expanded="true" />
+                <element signature="e#733#734#0" expanded="true" />
+                <element signature="e#762#763#0" expanded="true" />
+                <element signature="e#807#808#0" expanded="true" />
+                <element signature="e#843#844#0" expanded="true" />
+                <element signature="e#880#881#0" expanded="true" />
+                <element signature="e#909#910#0" expanded="true" />
+                <element signature="e#957#958#0" expanded="true" />
+                <element signature="e#993#994#0" expanded="true" />
+                <element signature="e#1026#1027#0" expanded="true" />
+                <element signature="e#1055#1056#0" expanded="true" />
+                <element signature="e#1099#1100#0" expanded="true" />
+                <element signature="e#1135#1136#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ItemLogModel.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tccbootx-item/src/main/java/com/loststars/tccbootx/item/service/model/ItemLogModel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="32">
+              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding>
+                <element signature="e#426#427#0" expanded="true" />
+                <element signature="e#451#452#0" expanded="true" />
+                <element signature="e#488#489#0" expanded="true" />
+                <element signature="e#516#517#0" expanded="true" />
+                <element signature="e#550#551#0" expanded="true" />
+                <element signature="e#580#581#0" expanded="true" />
+                <element signature="e#626#627#0" expanded="true" />
+                <element signature="e#664#665#0" expanded="true" />
+                <element signature="e#698#699#0" expanded="true" />
+                <element signature="e#727#728#0" expanded="true" />
+                <element signature="e#772#773#0" expanded="true" />
+                <element signature="e#808#809#0" expanded="true" />
+                <element signature="e#842#843#0" expanded="true" />
+                <element signature="e#871#872#0" expanded="true" />
+                <element signature="e#916#917#0" expanded="true" />
+                <element signature="e#952#953#0" expanded="true" />
+                <element signature="e#985#986#0" expanded="true" />
+                <element signature="e#1014#1015#0" expanded="true" />
+                <element signature="e#1058#1059#0" expanded="true" />
+                <element signature="e#1094#1095#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DefaultItemServiceAPIImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tccbootx-item/src/main/java/com/loststars/tccbootx/item/service/impl/DefaultItemServiceAPIImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="335">
+              <caret line="66" column="47" lean-forward="false" selection-start-line="66" selection-start-column="47" selection-end-line="66" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DefaultOrderServiceAPIImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tccbootx-order/src/main/java/com/loststars/tccbootx/order/service/impl/DefaultOrderServiceAPIImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="615">
+              <caret line="142" column="18" lean-forward="true" selection-start-line="142" selection-start-column="18" selection-end-line="142" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DefaultUserServiceAPIImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tccbootx-user/src/main/java/com/loststars/tccbootx/user/service/impl/DefaultUserServiceAPIImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7">
+              <caret line="125" column="49" lean-forward="false" selection-start-line="125" selection-start-column="49" selection-end-line="125" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserDOMapper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tccbootx-user/src/main/java/com/loststars/tccbootx/user/dao/UserDOMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="32" column="76" lean-forward="false" selection-start-line="32" selection-start-column="76" selection-end-line="32" selection-end-column="76" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserDOMapper.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tccbootx-user/src/main/resources/mapper/UserDOMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="555">
+              <caret line="210" column="11" lean-forward="true" selection-start-line="210" selection-start-column="11" selection-end-line="210" selection-end-column="11" />
+              <folding>
+                <marker date="1590759558578" expanded="true" signature="3523:3623" ph="select from user" />
+                <marker date="1590759558578" expanded="true" signature="3709:3763" ph="delete from user... " />
+                <marker date="1590759558578" expanded="true" signature="3881:3897" ph="delete from user... " />
+                <marker date="1590759558578" expanded="true" signature="4091:4307" ph="insert into user... " />
+                <marker date="1590759558578" expanded="true" signature="5339:5364" ph="select count... user" />
+                <marker date="1590759558578" expanded="true" signature="6195:6436" ph="update user... " />
+                <marker date="1590759558578" expanded="true" signature="6661:7055" ph="update user... " />
+                <marker date="1590759558578" expanded="true" signature="7169:7385" ph="update user... " />
+                <marker date="1590759558578" expanded="true" signature="7431:7629" ph="update user... " />
+                <marker date="1590759558578" expanded="true" signature="7672:7806" ph="update user... " />
+                <marker date="1590759558578" expanded="true" signature="7855:8071" ph="update user... " />
+                <marker date="1590759558578" expanded="true" signature="8117:8262" ph="update user... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RedPacketLogDOMapper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tccbootx-user/src/main/java/com/loststars/tccbootx/user/dao/RedPacketLogDOMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="416">
+              <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>meng</find>
+      <find>order</find>
+      <find>BaseResultMap</find>
+      <find>&lt;resultMap id=&quot;BaseResultMap&quot; type=&quot;com.loststars.tccbootx.item.dataobject.ItemDO&quot;&gt;</find>
+      <find>`</find>
+    </findStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/tccbootx-gateway/src/main/java/com/loststars/tccbootx/gateway/controller/GatewayController.java" />
+        <option value="$PROJECT_DIR$/tccbootx-gateway/src/main/java/com/loststars/tccbootx/gateway/controller/order/GatewayController.java" />
+        <option value="$PROJECT_DIR$/tccbootx-api/src/main/java/com/loststars/tccbootx/api/user/model/UserModel.java" />
+        <option value="$PROJECT_DIR$/tccbootx-api/src/main/java/com/loststars/tccbootx/api/item/model/ItemModel.java" />
+        <option value="$PROJECT_DIR$/tccbootx-item/src/main/java/com/loststars/tccbootx/order/ItemApplication.java" />
+        <option value="$PROJECT_DIR$/tccbootx-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/tccbootx-item/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/tccbootx-item/src/main/resources/tcc-transaction-dubbo.xml" />
+        <option value="$PROJECT_DIR$/tccbootx-api/src/main/java/com/loststars/tccbootx/api/order/OrderServiceAPI.java" />
+        <option value="$PROJECT_DIR$/tccbootx-order/src/main/java/com/loststars/tccbootx/order/controller/OrderController.java" />
+        <option value="$PROJECT_DIR$/tccbootx-order/pom.xml" />
+        <option value="$PROJECT_DIR$/tccbootx-order/src/main/resources/tcc-transaction-dubbo.xml" />
+        <option value="$PROJECT_DIR$/tccbootx-api/src/main/java/com/loststars/tccbootx/api/order/model/OrderModel.java" />
+        <option value="$PROJECT_DIR$/tccbootx-order/src/main/java/com/loststars/tccbootx/order/OrderApplication.java" />
+        <option value="$PROJECT_DIR$/tccbootx-item/pom.xml" />
+        <option value="$PROJECT_DIR$/tccbootx-user/pom.xml" />
+        <option value="$PROJECT_DIR$/tccbootx-user/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/tccbootx-user/src/main/java/com/loststars/tccbootx/user/UserApplication.java" />
+        <option value="$PROJECT_DIR$/tccbootx-user/src/main/java/com/loststars/tccbootx/user/config/TCCConfiguration.java" />
+        <option value="$PROJECT_DIR$/tccbootx-user/src/main/resources/tcc-transaction-dubbo.xml" />
+        <option value="$PROJECT_DIR$/tccbootx-api/src/main/java/com/loststars/tccbootx/api/user/model/WalletLog.java" />
+        <option value="$PROJECT_DIR$/tccbootx-order/src/main/resources/generatorConfig.xml" />
+        <option value="$PROJECT_DIR$/tccbootx-api/src/main/java/com/loststars/tccbootx/api/user/model/RedPacketModel.java" />
+        <option value="$PROJECT_DIR$/tccbootx-api/src/main/java/com/loststars/tccbootx/api/user/UserServiceAPI.java" />
+        <option value="$PROJECT_DIR$/tccbootx-api/src/main/java/com/loststars/tccbootx/api/user/model/RedPacketLogModel.java" />
+        <option value="$PROJECT_DIR$/tccbootx-user/src/main/java/com/loststars/tccbootx/user/dao/WalletLogDOMapper.java" />
+        <option value="$PROJECT_DIR$/tccbootx-user/src/main/resources/mapper/WalletLogDOMapper.xml" />
+        <option value="$PROJECT_DIR$/tccbootx-item/src/test/java/com/loststars/tccbootxorder/TccbootxOrderApplicationTests.java" />
+        <option value="$PROJECT_DIR$/tccbootx-user/src/main/java/com/loststars/tccbootx/user/dao/RedPacketLogDOMapper.java" />
+        <option value="$PROJECT_DIR$/tccbootx-user/src/main/resources/mapper/RedPacketLogDOMapper.xml" />
+        <option value="$PROJECT_DIR$/tccbootx-gateway/src/main/resources/tcc-transaction-dubbo.xml" />
+        <option value="$PROJECT_DIR$/tccbootx-api/src/main/java/com/loststars/tccbootx/api/item/ItemServiceAPI.java" />
+        <option value="$PROJECT_DIR$/tccbootx-item/src/main/java/com/loststars/tccbootx/item/ItemApplication.java" />
+        <option value="$PROJECT_DIR$/tccbootx-item/src/main/resources/mapper/ItemDOMapper.xml" />
+        <option value="$PROJECT_DIR$/tccbootx-api/src/main/java/com/loststars/tccbootx/api/item/model/ItemLogModel.java" />
+        <option value="$PROJECT_DIR$/tccbootx-item/src/main/resources/generatorConfig.xml" />
+        <option value="$PROJECT_DIR$/tccbootx-item/src/main/java/com/loststars/tccbootx/item/dao/ItemLogDOMapper.java" />
+        <option value="$PROJECT_DIR$/tccbootx-item/src/main/resources/mapper/ItemLogDOMapper.xml" />
+        <option value="$PROJECT_DIR$/tccbootx-item/src/main/java/com/loststars/tccbootx/item/dao/ItemDOMapper.java" />
+        <option value="$PROJECT_DIR$/tccbootx-gateway/src/main/java/com/loststars/tccbootx/gateway/gateway/order/OrderGateway.java" />
+        <option value="$PROJECT_DIR$/tccbootx-order/src/main/java/com/loststars/tccbootx/order/service/impl/DefaultOrderServiceAPIImpl.java" />
+        <option value="$PROJECT_DIR$/tccbootx-user/src/main/resources/generatorConfig.xml" />
+        <option value="$PROJECT_DIR$/tccbootx-user/src/main/java/com/loststars/tccbootx/user/dao/UserDOMapper.java" />
+        <option value="$PROJECT_DIR$/tccbootx-user/src/main/resources/mapper/UserDOMapper.xml" />
+        <option value="$PROJECT_DIR$/tccbootx-item/src/main/java/com/loststars/tccbootx/item/service/impl/DefaultItemServiceAPIImpl.java" />
+        <option value="$PROJECT_DIR$/tccbootx-user/src/main/java/com/loststars/tccbootx/user/service/impl/DefaultUserServiceAPIImpl.java" />
+        <option value="$PROJECT_DIR$/tccbootx-gateway/src/main/java/com/loststars/tccbootx/gateway/controller/order/OrderController.java" />
+        <option value="$PROJECT_DIR$/tccbootx-item/src/main/java/com/loststars/tccbootx/item/service/model/WalletLogModel.java" />
+        <option value="$PROJECT_DIR$/tccbootx-api/src/main/java/com/loststars/tccbootx/api/user/model/WalletLogModel.java" />
+        <option value="$PROJECT_DIR$/tccbootx-item/src/main/java/com/loststars/tccbootx/item/service/model/ItemLogModel.java" />
+        <option value="$PROJECT_DIR$/tccbootx-user/src/main/java/com/loststars/tccbootx/user/service/model/WalletLogModel.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="tccbootx-api" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="tccbootx-api" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="tccbootx-item" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="tccbootx-item" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="tccbootx-item" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="tccbootx-item" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="clean" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="tccbootx-item" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="mybatis-generator" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="tccbootx-order" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="tccbootx-order" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="tccbootx-order" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="mybatis-generator" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="tccbootx-user" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="tccbootx-user" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="tccbootx-user" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="tccbootx-user" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="mybatis-generator" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>CodeSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>Encapsulation issuesJava</id>
+          </State>
+          <State>
+            <id>Inheritance issuesJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>SetupSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring AOPSpring</id>
+          </State>
+          <State>
+            <id>Spring BatchSpring</id>
+          </State>
+          <State>
+            <id>Spring BootSpring</id>
+          </State>
+          <State>
+            <id>Spring CloudSpring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+          <State>
+            <id>Spring DataSpring</id>
+          </State>
+          <State>
+            <id>Spring IntegrationSpring</id>
+          </State>
+          <State>
+            <id>Spring MVCSpring</id>
+          </State>
+          <State>
+            <id>Spring OSGiSpring</id>
+          </State>
+          <State>
+            <id>Spring SecuritySpring</id>
+          </State>
+          <State>
+            <id>Spring Web FlowSpring</id>
+          </State>
+          <State>
+            <id>Spring Web ServicesSpring</id>
+          </State>
+          <State>
+            <id>Spring WebSocketSpring</id>
+          </State>
+          <State>
+            <id>XMLSpring CoreSpring</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpringJavaInjectionPointsAutowiringInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages ProjectPane="true" />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="tccbootx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tccbootx" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tccbootx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tccbootx" type="462c0819:PsiDirectoryNode" />
+              <item name="tccbootx-api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tccbootx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tccbootx" type="462c0819:PsiDirectoryNode" />
+              <item name="tccbootx-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tccbootx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tccbootx" type="462c0819:PsiDirectoryNode" />
+              <item name="tccbootx-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tccbootx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tccbootx" type="462c0819:PsiDirectoryNode" />
+              <item name="tccbootx-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tccbootx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tccbootx" type="462c0819:PsiDirectoryNode" />
+              <item name="tccbootx-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tccbootx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tccbootx" type="462c0819:PsiDirectoryNode" />
+              <item name="tccbootx-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="item" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tccbootx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tccbootx" type="462c0819:PsiDirectoryNode" />
+              <item name="tccbootx-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="item" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tccbootx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tccbootx" type="462c0819:PsiDirectoryNode" />
+              <item name="tccbootx-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tccbootx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tccbootx" type="462c0819:PsiDirectoryNode" />
+              <item name="tccbootx-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tccbootx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tccbootx" type="462c0819:PsiDirectoryNode" />
+              <item name="tccbootx-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tccbootx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tccbootx" type="462c0819:PsiDirectoryNode" />
+              <item name="tccbootx-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tccbootx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tccbootx" type="462c0819:PsiDirectoryNode" />
+              <item name="tccbootx-gateway" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tccbootx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tccbootx" type="462c0819:PsiDirectoryNode" />
+              <item name="tccbootx-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tccbootx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tccbootx" type="462c0819:PsiDirectoryNode" />
+              <item name="tccbootx-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tccbootx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tccbootx" type="462c0819:PsiDirectoryNode" />
+              <item name="tccbootx-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tccbootx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tccbootx" type="462c0819:PsiDirectoryNode" />
+              <item name="tccbootx-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gateway" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tccbootx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tccbootx" type="462c0819:PsiDirectoryNode" />
+              <item name="tccbootx-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tccbootx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tccbootx" type="462c0819:PsiDirectoryNode" />
+              <item name="tccbootx-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tccbootx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tccbootx" type="462c0819:PsiDirectoryNode" />
+              <item name="tccbootx-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tccbootx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tccbootx" type="462c0819:PsiDirectoryNode" />
+              <item name="tccbootx-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tccbootx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tccbootx" type="462c0819:PsiDirectoryNode" />
+              <item name="tccbootx-item" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tccbootx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tccbootx" type="462c0819:PsiDirectoryNode" />
+              <item name="tccbootx-item" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tccbootx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tccbootx" type="462c0819:PsiDirectoryNode" />
+              <item name="tccbootx-item" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tccbootx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tccbootx" type="462c0819:PsiDirectoryNode" />
+              <item name="tccbootx-item" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tccbootx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tccbootx" type="462c0819:PsiDirectoryNode" />
+              <item name="tccbootx-item" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="item" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tccbootx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tccbootx" type="462c0819:PsiDirectoryNode" />
+              <item name="tccbootx-item" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="item" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tccbootx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tccbootx" type="462c0819:PsiDirectoryNode" />
+              <item name="tccbootx-item" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="item" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tccbootx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tccbootx" type="462c0819:PsiDirectoryNode" />
+              <item name="tccbootx-item" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="item" type="462c0819:PsiDirectoryNode" />
+              <item name="dataobject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tccbootx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tccbootx" type="462c0819:PsiDirectoryNode" />
+              <item name="tccbootx-item" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="item" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tccbootx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tccbootx" type="462c0819:PsiDirectoryNode" />
+              <item name="tccbootx-item" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="item" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tccbootx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tccbootx" type="462c0819:PsiDirectoryNode" />
+              <item name="tccbootx-item" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="item" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tccbootx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tccbootx" type="462c0819:PsiDirectoryNode" />
+              <item name="tccbootx-item" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tccbootx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tccbootx" type="462c0819:PsiDirectoryNode" />
+              <item name="tccbootx-item" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tccbootx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tccbootx" type="462c0819:PsiDirectoryNode" />
+              <item name="tccbootx-item" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tccbootx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tccbootx" type="462c0819:PsiDirectoryNode" />
+              <item name="tccbootx-item" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tccbootx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tccbootx" type="462c0819:PsiDirectoryNode" />
+              <item name="tccbootx-item" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tccbootxorder" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tccbootx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tccbootx" type="462c0819:PsiDirectoryNode" />
+              <item name="tccbootx-order" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tccbootx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tccbootx" type="462c0819:PsiDirectoryNode" />
+              <item name="tccbootx-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tccbootx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tccbootx" type="462c0819:PsiDirectoryNode" />
+              <item name="tccbootx-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tccbootx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tccbootx" type="462c0819:PsiDirectoryNode" />
+              <item name="tccbootx-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tccbootx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tccbootx" type="462c0819:PsiDirectoryNode" />
+              <item name="tccbootx-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tccbootx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tccbootx" type="462c0819:PsiDirectoryNode" />
+              <item name="tccbootx-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tccbootx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tccbootx" type="462c0819:PsiDirectoryNode" />
+              <item name="tccbootx-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tccbootx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tccbootx" type="462c0819:PsiDirectoryNode" />
+              <item name="tccbootx-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
+              <item name="dataobject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tccbootx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tccbootx" type="462c0819:PsiDirectoryNode" />
+              <item name="tccbootx-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tccbootx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tccbootx" type="462c0819:PsiDirectoryNode" />
+              <item name="tccbootx-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tccbootx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tccbootx" type="462c0819:PsiDirectoryNode" />
+              <item name="tccbootx-user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tccbootx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tccbootx" type="462c0819:PsiDirectoryNode" />
+              <item name="tccbootx-user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tccbootx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tccbootx" type="462c0819:PsiDirectoryNode" />
+              <item name="tccbootx-user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tccbootx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tccbootx" type="462c0819:PsiDirectoryNode" />
+              <item name="tccbootx-user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tccbootx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tccbootx" type="462c0819:PsiDirectoryNode" />
+              <item name="tccbootx-user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tccbootx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tccbootx" type="462c0819:PsiDirectoryNode" />
+              <item name="tccbootx-user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tccbootx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tccbootx" type="462c0819:PsiDirectoryNode" />
+              <item name="tccbootx-user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tccbootx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tccbootx" type="462c0819:PsiDirectoryNode" />
+              <item name="tccbootx-user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="dataobject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tccbootx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tccbootx" type="462c0819:PsiDirectoryNode" />
+              <item name="tccbootx-user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tccbootx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tccbootx" type="462c0819:PsiDirectoryNode" />
+              <item name="tccbootx-user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tccbootx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tccbootx" type="462c0819:PsiDirectoryNode" />
+              <item name="tccbootx-user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tccbootx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tccbootx" type="462c0819:PsiDirectoryNode" />
+              <item name="tccbootx-user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tccbootx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tccbootx" type="462c0819:PsiDirectoryNode" />
+              <item name="tccbootx-user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15384616" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tccbootx-item/pom.xml" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.loststars.tccbootx.gateway.transaction" />
+      <recent name="com.loststars.tccbootx.gateway.config" />
+      <recent name="com.loststars.tccbootx.order.config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Intel\IdeaProjects\tccbootx\tccbootx-user\src\main\resources" />
+      <recent name="C:\Users\Intel\IdeaProjects\tccbootx\tccbootx-user\src\main\java\com\loststars\tccbootx\user" />
+      <recent name="C:\Users\Intel\IdeaProjects\tccbootx" />
+      <recent name="C:\Users\Intel\IdeaProjects\tccbootx\tccbootx-gateway\src\main\resources" />
+      <recent name="C:\Users\Intel\IdeaProjects\tccbootx\tccbootx-order\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.GatewayApplication">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="DefaultItemServiceAPIImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.loststars.tccbootx.item.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.loststars.tccbootx.item.service.impl.DefaultItemServiceAPIImpl" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="tccbootx-item" />
+      <envs />
+    </configuration>
+    <configuration name="GatewayApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.loststars.tccbootx.gateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.loststars.tccbootx.gateway.GatewayApplication" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="tccbootx-gateway" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration name="TccbootxOrderApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.loststars.tccbootxorder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="tccbootx-item" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.loststars.tccbootxorder" />
+      <option name="MAIN_CLASS_NAME" value="com.loststars.tccbootxorder.TccbootxOrderApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="TccbootxOrderApplicationTests.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.loststars.tccbootxorder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="tccbootx-item" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.loststars.tccbootxorder" />
+      <option name="MAIN_CLASS_NAME" value="com.loststars.tccbootxorder.TccbootxOrderApplicationTests" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration name="GatewayApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.loststars.tccbootx.gateway.GatewayApplication" />
+      <module name="tccbootx-gateway" />
+      <envs />
+    </configuration>
+    <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.loststars.tccbootx.order.GatewayApplication" />
+      <module name="tccbootx-order (1)" />
+      <envs />
+    </configuration>
+    <configuration name="ItemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.loststars.tccbootx.order.ItemApplication" />
+      <module name="tccbootx-item" />
+      <envs />
+    </configuration>
+    <configuration name="ItemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.loststars.tccbootx.item.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.loststars.tccbootx.item.ItemApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <module name="tccbootx-item" />
+      <envs />
+    </configuration>
+    <configuration name="OrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.loststars.tccbootx.order.OrderApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <module name="tccbootx-order" />
+      <envs />
+    </configuration>
+    <configuration name="TccbootxUserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.loststars.tccbootxuser.UserApplication" />
+      <module name="tccbootx-user" />
+      <envs />
+    </configuration>
+    <configuration name="UserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.loststars.tccbootx.user.UserApplication" />
+      <module name="tccbootx-user" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list size="10">
+      <item index="0" class="java.lang.String" itemvalue="Spring Boot.OrderApplication" />
+      <item index="1" class="java.lang.String" itemvalue="Spring Boot.GatewayApplication" />
+      <item index="2" class="java.lang.String" itemvalue="Spring Boot.GatewayApplication (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Spring Boot.TccbootxUserApplication" />
+      <item index="4" class="java.lang.String" itemvalue="Spring Boot.UserApplication" />
+      <item index="5" class="java.lang.String" itemvalue="Application.GatewayApplication" />
+      <item index="6" class="java.lang.String" itemvalue="Spring Boot.ItemApplication" />
+      <item index="7" class="java.lang.String" itemvalue="JUnit.TccbootxOrderApplicationTests.contextLoads" />
+      <item index="8" class="java.lang.String" itemvalue="JUnit.TccbootxOrderApplicationTests.test" />
+      <item index="9" class="java.lang.String" itemvalue="Application.DefaultItemServiceAPIImpl" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.GatewayApplication" />
+        <item index="1" class="java.lang.String" itemvalue="Spring Boot.ItemApplication" />
+        <item index="2" class="java.lang.String" itemvalue="Application.DefaultItemServiceAPIImpl" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.TccbootxOrderApplicationTests.test" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.TccbootxOrderApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34bf7a07-dea8-48f4-9646-763b10f72e64" name="Default" comment="" />
+      <created>1590665579192</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590665579192</updated>
+      <workItem from="1590665582221" duration="16180000" />
+      <workItem from="1590720017612" duration="25857000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TccbootxOrderApplicationTests_test - 2020.05.29 at 15h 24m 34s.xml">
+      <configuration name="TccbootxOrderApplicationTests.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TccbootxOrderApplicationTests_test - 2020.05.29 at 15h 25m 47s.xml">
+      <configuration name="TccbootxOrderApplicationTests.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TccbootxOrderApplicationTests_test - 2020.05.29 at 15h 26m 53s.xml">
+      <configuration name="TccbootxOrderApplicationTests.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TccbootxOrderApplicationTests_test - 2020.05.29 at 17h 20m 05s.xml">
+      <configuration name="TccbootxOrderApplicationTests.test" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="42037000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25266525" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39935064" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tccbootx-order/src/main/java/com/loststars/tccbootx/order/OrderApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tccbootx-user/src/main/java/com/loststars/tccbootx/user/config/TCCConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/lang/ArithmeticException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="47" column="11" lean-forward="false" selection-start-line="47" selection-start-column="11" selection-end-line="47" selection-end-column="11" />
+          <folding>
+            <element signature="e#933#934#0" expanded="false" />
+            <element signature="e#956#957#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tccbootx-user/src/main/java/com/loststars/tccbootx/user/UserApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="15" column="24" lean-forward="false" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tccbootx-item/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tccbootx-item/src/main/resources/tcc-transaction-dubbo.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="51" lean-forward="false" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tccbootx-order/src/main/resources/tcc-transaction-dubbo.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="42" lean-forward="false" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tccbootx-order/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tccbootx-user/src/main/resources/tcc-transaction-dubbo.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="47" lean-forward="false" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tccbootx-user/src/main/java/com/loststars/tccbootx/user/dataobject/WalletLogDO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tccbootx-user/src/main/resources/tcc-transaction.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tccbootx-user/src/main/java/com/loststars/tccbootx/user/dataobject/UserDO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tccbootx-order/src/main/resources/generatorConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="39" column="29" lean-forward="true" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tccbootx-order/src/main/java/com/loststars/tccbootx/order/dao/OrderDOMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tccbootx-order/src/main/java/com/loststars/tccbootx/order/dataobject/OrderDO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tccbootx-user/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tccbootx-user/src/main/java/com/loststars/tccbootx/user/config/DatasourceConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tccbootx-user/src/main/java/com/loststars/tccbootx/user/dataobject/RedPacketLogDO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tccbootx-user/src/test/java/com/loststars/tccbootx/user/TccbootxUserApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tccbootx-item/src/test/java/com/loststars/tccbootxorder/TccbootxOrderApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tccbootx-api/src/main/java/com/loststars/tccbootx/api/order/OrderServiceAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" column="16" lean-forward="false" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tccbootx-api/src/main/java/com/loststars/tccbootx/api/item/model/ItemModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="24" column="20" lean-forward="false" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tccbootx-item/src/main/java/com/loststars/tccbootx/item/ItemApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tccbootx-item/src/main/java/com/loststars/tccbootx/item/dataobject/ItemDO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tccbootx-item/src/main/resources/generatorConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="39" column="61" lean-forward="false" selection-start-line="39" selection-start-column="61" selection-end-line="39" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tccbootx-item/src/main/java/com/loststars/tccbootx/item/dataobject/ItemLogDO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="47" column="5" lean-forward="true" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tccbootx-user/src/main/resources/mapper/WalletLogDOMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="671">
+          <caret line="211" column="21" lean-forward="true" selection-start-line="211" selection-start-column="21" selection-end-line="211" selection-end-column="21" />
+          <folding>
+            <marker date="1590743995650" expanded="true" signature="3570:3676" ph="select from wallet_log" />
+            <marker date="1590743995650" expanded="true" signature="3762:3822" ph="delete from wallet_log... " />
+            <marker date="1590743995650" expanded="true" signature="3945:3967" ph="delete from wallet_log... " />
+            <marker date="1590743995650" expanded="true" signature="4166:4391" ph="insert into wallet_log... " />
+            <marker date="1590743995650" expanded="true" signature="5516:5547" ph="select count... wallet_log" />
+            <marker date="1590743995650" expanded="true" signature="6439:6703" ph="update wallet_log... " />
+            <marker date="1590743995650" expanded="true" signature="6933:7374" ph="update wallet_log... " />
+            <marker date="1590743995650" expanded="true" signature="7493:7725" ph="update wallet_log... " />
+            <marker date="1590743995650" expanded="true" signature="7771:7940" ph="update wallet_log... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tccbootx-user/src/main/java/com/loststars/tccbootx/user/dao/WalletLogDOMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="30" column="105" lean-forward="false" selection-start-line="30" selection-start-column="105" selection-end-line="30" selection-end-column="105" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tccbootx-item/src/main/java/com/loststars/tccbootx/item/dao/ItemLogDOMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="30" column="20" lean-forward="false" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tccbootx-gateway/src/main/resources/tcc-transaction-dubbo.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" column="8" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tccbootx-api/src/main/java/com/loststars/tccbootx/api/item/ItemServiceAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tccbootx-api/src/main/java/com/loststars/tccbootx/api/user/UserServiceAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tccbootx-gateway/src/main/java/com/loststars/tccbootx/gateway/gateway/order/OrderGateway.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="44" column="53" lean-forward="false" selection-start-line="44" selection-start-column="53" selection-end-line="44" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tccbootx-gateway/src/main/java/com/loststars/tccbootx/gateway/GatewayApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tccbootx-item/src/main/java/com/loststars/tccbootx/item/dao/ItemDOMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="32" column="75" lean-forward="false" selection-start-line="32" selection-start-column="75" selection-end-line="32" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tccbootx-item/src/main/resources/mapper/ItemDOMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="647">
+          <caret line="196" column="15" lean-forward="true" selection-start-line="196" selection-start-column="15" selection-end-line="196" selection-end-column="15" />
+          <folding>
+            <marker date="1590745457751" expanded="true" signature="3454:3554" ph="select from item" />
+            <marker date="1590745457751" expanded="true" signature="3640:3694" ph="delete from item... " />
+            <marker date="1590745457751" expanded="true" signature="3812:3828" ph="delete from item... " />
+            <marker date="1590745457751" expanded="true" signature="4022:4193" ph="insert into item... " />
+            <marker date="1590745457751" expanded="true" signature="5138:5163" ph="select count... item" />
+            <marker date="1590745457751" expanded="true" signature="5928:6124" ph="update item... " />
+            <marker date="1590745457751" expanded="true" signature="6349:6677" ph="update item... " />
+            <marker date="1590745457751" expanded="true" signature="6791:6962" ph="update item... " />
+            <marker date="1590745457751" expanded="true" signature="7007:7169" ph="update item... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tccbootx-item/src/main/resources/mapper/ItemLogDOMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="203" column="19" lean-forward="true" selection-start-line="203" selection-start-column="19" selection-end-line="203" selection-end-column="19" />
+          <folding>
+            <marker date="1590756867938" expanded="true" signature="3562:3666" ph="select from item_log" />
+            <marker date="1590756867938" expanded="true" signature="3752:3810" ph="delete from item_log... " />
+            <marker date="1590756867938" expanded="true" signature="3931:3951" ph="delete from item_log... " />
+            <marker date="1590756867938" expanded="true" signature="4148:4371" ph="insert into item_log... " />
+            <marker date="1590756867938" expanded="true" signature="5490:5519" ph="select count... item_log" />
+            <marker date="1590756867938" expanded="true" signature="6409:6671" ph="update item_log... " />
+            <marker date="1590756867938" expanded="true" signature="6899:7338" ph="update item_log... " />
+            <marker date="1590756867938" expanded="true" signature="7455:7685" ph="update item_log... " />
+            <marker date="1590756867938" expanded="true" signature="7731:7898" ph="update item_log... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tccbootx-order/src/main/resources/mapper/OrderDOMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2448">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1590740371096" expanded="true" signature="3661:3767" ph="select from order_info" />
+            <marker date="1590740371096" expanded="true" signature="3852:3912" ph="delete from order_info... " />
+            <marker date="1590740371096" expanded="true" signature="4032:4054" ph="delete from order_info... " />
+            <marker date="1590740371096" expanded="true" signature="4250:4541" ph="insert into order_info... " />
+            <marker date="1590740371096" expanded="true" signature="5832:5863" ph="select count... order_info" />
+            <marker date="1590740371096" expanded="true" signature="6882:7212" ph="update order_info... " />
+            <marker date="1590740371096" expanded="true" signature="7439:7993" ph="update order_info... " />
+            <marker date="1590740371096" expanded="true" signature="8109:8400" ph="update order_info... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tccbootx-api/src/main/java/com/loststars/tccbootx/api/user/model/UserModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tccbootx-user/src/main/resources/mapper/RedPacketLogDOMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="205" column="43" lean-forward="true" selection-start-line="205" selection-start-column="43" selection-end-line="205" selection-end-column="43" />
+          <folding>
+            <marker date="1590744871022" expanded="true" signature="3583:3693" ph="select from red_packet_log" />
+            <marker date="1590744871022" expanded="true" signature="3779:3843" ph="delete from red_packet_log... " />
+            <marker date="1590744871022" expanded="true" signature="3969:3995" ph="delete from red_packet_log... " />
+            <marker date="1590744871022" expanded="true" signature="4197:4426" ph="insert into red_packet_log... " />
+            <marker date="1590744871022" expanded="true" signature="5561:5596" ph="select count... red_packet_log" />
+            <marker date="1590744871022" expanded="true" signature="6492:6760" ph="update red_packet_log... " />
+            <marker date="1590744871022" expanded="true" signature="6993:7438" ph="update red_packet_log... " />
+            <marker date="1590744871022" expanded="true" signature="7560:7796" ph="update red_packet_log... " />
+            <marker date="1590744871022" expanded="true" signature="7842:8015" ph="update red_packet_log... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tccbootx-user/src/main/resources/generatorConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="39" column="86" lean-forward="true" selection-start-line="39" selection-start-column="86" selection-end-line="39" selection-end-column="86" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tccbootx-user/src/main/java/com/loststars/tccbootx/user/dao/RedPacketLogDOMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tccbootx-user/src/main/java/com/loststars/tccbootx/user/dao/UserDOMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="32" column="76" lean-forward="false" selection-start-line="32" selection-start-column="76" selection-end-line="32" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tccbootx-user/src/main/resources/mapper/UserDOMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="210" column="11" lean-forward="true" selection-start-line="210" selection-start-column="11" selection-end-line="210" selection-end-column="11" />
+          <folding>
+            <marker date="1590759558578" expanded="true" signature="3523:3623" ph="select from user" />
+            <marker date="1590759558578" expanded="true" signature="3709:3763" ph="delete from user... " />
+            <marker date="1590759558578" expanded="true" signature="3881:3897" ph="delete from user... " />
+            <marker date="1590759558578" expanded="true" signature="4091:4307" ph="insert into user... " />
+            <marker date="1590759558578" expanded="true" signature="5339:5364" ph="select count... user" />
+            <marker date="1590759558578" expanded="true" signature="6195:6436" ph="update user... " />
+            <marker date="1590759558578" expanded="true" signature="6661:7055" ph="update user... " />
+            <marker date="1590759558578" expanded="true" signature="7169:7385" ph="update user... " />
+            <marker date="1590759558578" expanded="true" signature="7431:7629" ph="update user... " />
+            <marker date="1590759558578" expanded="true" signature="7672:7806" ph="update user... " />
+            <marker date="1590759558578" expanded="true" signature="7855:8071" ph="update user... " />
+            <marker date="1590759558578" expanded="true" signature="8117:8262" ph="update user... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tccbootx-item/src/main/java/com/loststars/tccbootx/item/service/impl/DefaultItemServiceAPIImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="66" column="47" lean-forward="false" selection-start-line="66" selection-start-column="47" selection-end-line="66" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tccbootx-order/src/main/java/com/loststars/tccbootx/order/service/impl/DefaultOrderServiceAPIImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="142" column="18" lean-forward="true" selection-start-line="142" selection-start-column="18" selection-end-line="142" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tccbootx-user/src/main/java/com/loststars/tccbootx/user/service/impl/DefaultUserServiceAPIImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7">
+          <caret line="125" column="49" lean-forward="false" selection-start-line="125" selection-start-column="49" selection-end-line="125" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tccbootx-gateway/src/main/java/com/loststars/tccbootx/gateway/controller/order/OrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="791">
+          <caret line="77" column="41" lean-forward="true" selection-start-line="77" selection-start-column="41" selection-end-line="77" selection-end-column="41" />
+          <folding>
+            <element signature="e#1156#1157#0" expanded="true" />
+            <element signature="e#1194#1195#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tccbootx-item/src/main/java/com/loststars/tccbootx/item/service/model/ItemLogModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#426#427#0" expanded="true" />
+            <element signature="e#451#452#0" expanded="true" />
+            <element signature="e#488#489#0" expanded="true" />
+            <element signature="e#516#517#0" expanded="true" />
+            <element signature="e#550#551#0" expanded="true" />
+            <element signature="e#580#581#0" expanded="true" />
+            <element signature="e#626#627#0" expanded="true" />
+            <element signature="e#664#665#0" expanded="true" />
+            <element signature="e#698#699#0" expanded="true" />
+            <element signature="e#727#728#0" expanded="true" />
+            <element signature="e#772#773#0" expanded="true" />
+            <element signature="e#808#809#0" expanded="true" />
+            <element signature="e#842#843#0" expanded="true" />
+            <element signature="e#871#872#0" expanded="true" />
+            <element signature="e#916#917#0" expanded="true" />
+            <element signature="e#952#953#0" expanded="true" />
+            <element signature="e#985#986#0" expanded="true" />
+            <element signature="e#1014#1015#0" expanded="true" />
+            <element signature="e#1058#1059#0" expanded="true" />
+            <element signature="e#1094#1095#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tccbootx-user/src/main/java/com/loststars/tccbootx/user/service/model/RedPacketLogModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="e#464#465#0" expanded="true" />
+            <element signature="e#489#490#0" expanded="true" />
+            <element signature="e#526#527#0" expanded="true" />
+            <element signature="e#554#555#0" expanded="true" />
+            <element signature="e#588#589#0" expanded="true" />
+            <element signature="e#618#619#0" expanded="true" />
+            <element signature="e#664#665#0" expanded="true" />
+            <element signature="e#702#703#0" expanded="true" />
+            <element signature="e#736#737#0" expanded="true" />
+            <element signature="e#765#766#0" expanded="true" />
+            <element signature="e#810#811#0" expanded="true" />
+            <element signature="e#846#847#0" expanded="true" />
+            <element signature="e#883#884#0" expanded="true" />
+            <element signature="e#912#913#0" expanded="true" />
+            <element signature="e#960#961#0" expanded="true" />
+            <element signature="e#996#997#0" expanded="true" />
+            <element signature="e#1029#1030#0" expanded="true" />
+            <element signature="e#1058#1059#0" expanded="true" />
+            <element signature="e#1102#1103#0" expanded="true" />
+            <element signature="e#1138#1139#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tccbootx-user/src/main/java/com/loststars/tccbootx/user/service/model/WalletLogModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="31" column="23" lean-forward="true" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+          <folding>
+            <element signature="e#461#462#0" expanded="true" />
+            <element signature="e#486#487#0" expanded="true" />
+            <element signature="e#523#524#0" expanded="true" />
+            <element signature="e#551#552#0" expanded="true" />
+            <element signature="e#585#586#0" expanded="true" />
+            <element signature="e#615#616#0" expanded="true" />
+            <element signature="e#661#662#0" expanded="true" />
+            <element signature="e#699#700#0" expanded="true" />
+            <element signature="e#733#734#0" expanded="true" />
+            <element signature="e#762#763#0" expanded="true" />
+            <element signature="e#807#808#0" expanded="true" />
+            <element signature="e#843#844#0" expanded="true" />
+            <element signature="e#880#881#0" expanded="true" />
+            <element signature="e#909#910#0" expanded="true" />
+            <element signature="e#957#958#0" expanded="true" />
+            <element signature="e#993#994#0" expanded="true" />
+            <element signature="e#1026#1027#0" expanded="true" />
+            <element signature="e#1055#1056#0" expanded="true" />
+            <element signature="e#1099#1100#0" expanded="true" />
+            <element signature="e#1135#1136#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>tccbootx-order</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

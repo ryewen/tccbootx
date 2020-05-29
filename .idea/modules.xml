@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/tccbootx.iml" filepath="$PROJECT_DIR$/tccbootx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tccbootx-api/tccbootx-api.iml" filepath="$PROJECT_DIR$/tccbootx-api/tccbootx-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tccbootx-gateway/tccbootx-gateway.iml" filepath="$PROJECT_DIR$/tccbootx-gateway/tccbootx-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tccbootx-item/tccbootx-item.iml" filepath="$PROJECT_DIR$/tccbootx-item/tccbootx-item.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tccbootx-order/tccbootx-order.iml" filepath="$PROJECT_DIR$/tccbootx-order/tccbootx-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tccbootx-user/tccbootx-user.iml" filepath="$PROJECT_DIR$/tccbootx-user/tccbootx-user.iml" />
+    </modules>
+  </component>
+</project>
